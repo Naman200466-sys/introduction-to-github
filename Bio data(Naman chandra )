@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata</title>
+   <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .personal-info, .education, .hobbies,.languages {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Biodata</h1>
+
+    <div class="personal-info">
+        <h2><u>Personal Information</u></h2>
+        <p><strong>Name:</strong> Naman Chandra</p>
+        <p><strong>Date of Birth:</strong> 06/02/2004</p>
+        <p><strong>Address:</strong>Galaxy Apartments,Civil lines road , Lucknow,Uttar Pradesh. </p>
+        <p><strong>State:</strong> Uttar Pradesh</p>
+        <p><strong>Phone Number:</strong> +91 7380623778</p>
+        <p><strong>Nationality:</strong> Indian</p>
+        <p><strong>Email Address:</strong> Namanchandra112@gmail.com</p>
+    </div>
+
+    <div class="about-me">
+        <h2><u>About Me</u></h2>
+<p> My name is Naman Chandra , and I am currently a first-year student pursuing a Bachelor of Technology in Computer Engineering. I have always been passionate about technology and problem-solving, which led me to choose this field of study.
+
+    Apart from my academic interests, I have a few hobbies that keep me balanced. I enjoy listening to music, which helps me relax and stay focused during my study sessions. Cooking is another hobby I love—there’s something therapeutic about experimenting with new recipes and creating something delicious. Additionally, I have a strong love for traveling. Exploring new places, meeting different people, and learning about diverse cultures excites me and broadens my perspective.
+    
+    I’m looking forward to growing both academically and personally during my time in BTech, and I’m excited for the opportunities that lie ahead.
+    
+     </p>
+    </div>
+
+    <div class="education">
+        <h2><u>Formal Education</u></h2>
+        <table border="1" cellpadding="10">
+            <tr>
+                <th>Examination</th>
+                <th>Institute & Board</th>
+                <th>Percentage</th>
+            </tr>
+            <tr>
+                <td>B.Tech CSE</td>
+                <td>Pimpri Chinchwad University, Pune, NA</td>
+                <td>8.7 SGPA</td>
+            </tr>
+            <tr>
+                <td>Higher Secondary</td>
+                <td>Lucknow public school and college</td>
+                <td>90%</td>
+            </tr>
+            <tr>
+                <td>Secondary</td>
+                <td>Lucknow public school and college</td>
+                <td>93.4%</td>
+            </tr>
+        </table>    
+    </div>
+
+  <div class="hobbies">
+      <h2><u>Hobbies</u></h2>
+      <ul>
+          <li>Cooking</li>
+          <li>Travelling</li>
+          <li>Playing Video Games</li>
+          <li>Listening to songs</li>
+      </ul>
+  </div>
+  <div class="languages">
+    <h2><u>Languages known</u></h2>
+    <ul>
+        <li>Hindi</li>
+        <li>English</li>
+        
+    </ul>
+</div>
+</body>
+</html>
